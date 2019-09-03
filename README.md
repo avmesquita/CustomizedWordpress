@@ -1,39 +1,29 @@
 # Customized Wordpress
 
-SO: ubuntu:latest
+## SO
+- ubuntu:latest
 
+## SECURITY 
+- Wordfence
+- Rename wp-login.php
+- Disable REST API
 
-=== SECURITY ===
+## PERFORMANCE
+- Remove Query String From Static Resources
+- Fast Velocity
 
-# Wordfence
-# Rename wp-login.php
-# Disable REST API
+## TAGS
+- Google Analytics Dashboard for WP por ExactMetrics (antigo GADWP)
 
+## SEO
+- Yoast SEO
+- Markup (JSON-LD) structured in schema.org
+- SEO Redirection Plugin
 
-=== PERFORMANCE ===
+## BACKUP
+- UpdraftPlus WordPress Backup Plugin
 
-# Remove Query String From Static Resources
-# Fast Velocity
+## CUSTOMIZATIONS
 
-
-=== TAGS
-# Google Analytics Dashboard for WP por ExactMetrics (antigo GADWP)
-
-
-=== SEO ===
-
-# Yoast SEO
-# Markup (JSON-LD) structured in schema.org
-# SEO Redirection Plugin
-
-
-=== BACKUP ===
-
-# UpdraftPlus WordPress Backup Plugin
-
-
-=== CUSTOMIZATIONS ===
-
-# lightGallery
-# Replace wp-admin logo
-
+- lightGallery
+- Replace wp-admin logo
